@@ -10,7 +10,7 @@ camera.framerate = 30#32
 rawCapture = PiRGBArray(camera, size=(640, 480)) #(640, 480) #(1920, 1088)
 
 face_cascade = cv2.CascadeClassifier()
-face_cascade.load("/home/eddy/code/haarcascade_frontalface_default.xml")
+face_cascade.load("./haarcascade_frontalface_default.xml")
 
 time.sleep(0.1)
 
