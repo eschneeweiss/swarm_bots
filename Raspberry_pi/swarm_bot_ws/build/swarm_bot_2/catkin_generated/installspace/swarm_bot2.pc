@@ -1,0 +1,8 @@
+prefix=/home/eddy/swarm_bots/Raspberry_pi/swarm_bot_ws/install
+
+Name: swarm_bot2
+Description: Description of swarm_bot2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eddy/swarm_bots/Raspberry_pi/swarm_bot_ws/install/lib 
+Requires: 
